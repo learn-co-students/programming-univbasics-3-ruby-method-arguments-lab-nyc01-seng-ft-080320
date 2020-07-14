@@ -33,6 +33,14 @@ Copy the previous method and name it `introduction_with_language_optional`. It
 takes in two parameters, `name` and `language`, but the second parameter is
 optional. The default value for `language` will be "Ruby".
 
+
+
+
+
+
+
+
+
 ## Solving this Lab
 
 For this lab, your task is to create three different methods. The first one is
@@ -68,7 +76,7 @@ but the process is similar. First we define an empty method:
 
 ```ruby
 def introduction_with_language(name, language)
-  
+
 end
 ```
 
